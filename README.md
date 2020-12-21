@@ -1,0 +1,1 @@
+# saloneverywhere-covid-screening-tool
